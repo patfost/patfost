@@ -1,0 +1,2 @@
+- 👋 Hi, I’m @patfost
+- 👀 I’m interested in learning how to code and web 3 development
